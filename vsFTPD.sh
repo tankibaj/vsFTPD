@@ -2,7 +2,7 @@
 #Tankibaj
 #https://github.com/tankibaj
 
-
+clear
 # Options
 echo ""
 echo ""
