@@ -4,9 +4,7 @@ This script will let you setup your own FTP server in no more than a minute. It 
 
 # Installation
 
-`wget https://raw.githubusercontent.com/tankibaj/vsFTPD/master/vsFTPD.sh`
-
-`bash vsFTPD.sh`
+`wget https://raw.githubusercontent.com/tankibaj/vsFTPD/master/vsFTPD.sh && bash vsFTPD.sh`
 
 Once it ends, you can run it again to add more users or uninstall vsFTPD.
 
